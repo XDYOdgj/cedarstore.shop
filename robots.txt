@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cedarstore.shop/sitemap.xml
